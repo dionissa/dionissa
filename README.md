@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋 Olá! | Hello!
 
-<!--
-**dionissa/dionissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Sou um desenvolvedor **front-end** com habilidades em **HTML, CSS, JavaScript** e **React**.  
+🇺🇸 I'm a **front-end** developer skilled in **HTML, CSS, JavaScript**, and **React**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Procurando** uma vaga como **Dev Jr**. | 🕵️‍♂️ **Seeking** a position as a **Jr Dev**.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas | Technologies & Tools
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+
+---
+
+📬 Entre em contato! | 💌 Get in touch!
+
+[LinkedIn](https://www.linkedin.com/in/dionissa/) |  [Email](mailto:dionissarodrigo@gmail.com)
+
+---
+
+💼 Veja meus projetos abaixo. | 💼 Check out my projects below.
