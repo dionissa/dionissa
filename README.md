@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas | Technologies & Tools
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -25,3 +25,4 @@
 ---
 
 💼 Veja meus projetos abaixo. | 💼 Check out my projects below.
+
